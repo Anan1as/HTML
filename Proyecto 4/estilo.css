@@ -1,0 +1,11 @@
+#perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.imag {
+    width: 200px;
+    height: 200px;
+    border: solid 1px;
+}
