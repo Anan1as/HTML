@@ -1,0 +1,16 @@
+.element{
+    color:chartreuse;
+    background-image: url(images/back.jpg);
+    background-attachment: scroll;
+    border: 5px solid black;
+    margin: 50px 20px 30px 60px;
+    padding: 50px 40px 20px 30px;
+}
+
+/*background-color: rgb(122, 28, 65, 1);
+background-image: linear-gradient(to top right,
+rgb(147, 212, 238), 
+rgb(202, 85, 150), 
+rgb(255, 255, 255), 
+rgb(202, 85, 150),
+rgb(147, 212, 238)); */
